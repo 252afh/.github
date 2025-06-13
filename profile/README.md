@@ -3,6 +3,26 @@
 </h1>
 
 [![X](https://img.shields.io/badge/X-%40i__dot__ai-c50878)](https://twitter.com/i_dot_ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Incubator_for_Artificial_Intelligence-c50878)](https://uk.linkedin.com/company/i-dot-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-i.AI-c50878)](https://uk.linkedin.com/company/i-dot-ai)
+
+
+## About us
+
+The Incubator for Artificial Intelligence (i.AI) is an agile delivery team within the Government Digital Service (GDS), part of the Department for Science, Innovation and Technology (DSIT).
+
+Our mission is to act on government's duty to harness AI for public good. To do this we recruit top talent from industry, academia and across the public sector to make government better and serve the public interest.
 
 Visit [ai.gov.uk](https://ai.gov.uk) for further information.
+
+
+## Our open-source projects
+
+Here is a selection of our open source projects.
+
+Project | Description |
+:-- | :--
+[Consult](https://github.com/i-dot-ai/consult) | An LLM-powered tool to automate the processing of public consultations. | 
+[Lex](https://github.com/i-dot-ai/lex) | A comprehensive legislative service that downloads, parses, and indexes legislation, explanatory notes, amendments, and caselaw for subsequent search via an OpenAPI backend and MCP server. |
+[Theme Finder](https://github.com/i-dot-ai/themefinder)| a topic modelling Python package designed for analysing one-to-many question-answer data (i.e. survey responses, public consultations, etc.). |
+[GovAI Client](https://github.com/i-dot-ai/gov-ai-client) | A thin chat client for connecting to MCP Servers. |
+[Website](https://github.com/i-dot-ai/ai-gov-uk-website) | This is our repository for our public website. The intent of this site is to give us a public space for showcasing our work, news about the team, upcoming jobs and interesting commercial partnerships. |

@@ -26,7 +26,8 @@ Our selection process varies for each role. For technical roles it includes a te
 
 Here is a selection of our open source projects.
 
-Project | Description |
+  
+Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 :-- | :--
 [Consult](https://github.com/i-dot-ai/consult) | An LLM-powered tool to automate the processing of public consultations. | 
 [Lex](https://github.com/i-dot-ai/lex) | A comprehensive legislative service that downloads, parses, and indexes legislation, explanatory notes, amendments, and caselaw for subsequent search via an OpenAPI backend and MCP server. |

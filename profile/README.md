@@ -15,6 +15,13 @@ Our mission is to act on government's duty to harness AI for public good. To do 
 Visit [ai.gov.uk](https://ai.gov.uk) for further information.
 
 
+## Job opportunities
+
+We're currently hiring for a number of roles. Check for i.AI jobs on [Linkedin](https://www.linkedin.com/company/i-dot-ai/) or [Civil Service Jobs](https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=b3duZXJ0eXBlPWZhaXImcGFnZWNsYXNzPVNlYXJjaCZjb250ZXh0aWQ9MTAxNjYzMjcxJnBhZ2VhY3Rpb249c2VhcmNoY29udGV4dCZvd25lcj01MDcwMDAwJnJlcXNpZz0xNzI5NTA5NDU4LTdjZmQwMGQ5MDQ3OWE5NzU2MTA4NGY2MDFiZjQzOGQwMGM0ZmViMjk=). We're based in London, Bristol and Manchester.
+
+Our selection process varies for each role. For technical roles it includes a technical assessment as well as an interview.
+
+
 ## Our open-source projects
 
 Here is a selection of our open source projects.

@@ -12,7 +12,7 @@ The Incubator for Artificial Intelligence (i.AI) is an agile delivery team withi
 
 Our mission is to act on government's duty to harness AI for public good. To do this we recruit top talent from industry, academia and across the public sector to make government better and serve the public interest.
 
-Visit [ai.gov.uk](https://ai.gov.uk) for further information.
+Visit [ai.gov.uk](https://ai.gov.uk) for further information. Please contact us at [i-dot-ai-enquiries@cabinetoffice.gov.uk](mailto:i-dot-ai-enquiries@cabinetoffice.gov.uk) if you are interested in working together or contributing to our projects.
 
 
 ## Job opportunities
